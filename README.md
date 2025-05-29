@@ -1,14 +1,4 @@
 Este script renderiza un donut giratorio en ASCII directamente en la terminal usando la librería curses de Python. La animación está inspirada en el famoso "donut.c" y ha sido adaptada dinámicamente para ajustarse al tamaño de la terminal.
-📸 Vista previa
-
-         @@@@@
-      @@@@@@@@@@@@
-    @@@@@@@@@@@@@@@@
-   @@@@@@@@@@@@@@@@@@
-   @@@@@@@@@@@@@@@@@@@
-    @@@@@@@@@@@@@@@@
-      @@@@@@@@@@@@
-         @@@@@
 
 (La animación es dinámica y gira constantemente en tiempo real en la terminal)
 🧩 Requisitos
